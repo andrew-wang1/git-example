@@ -1,3 +1,0 @@
-This is a new file; ext: txt.
-Added text to see diff in staged.
-Added text to commit without adding to staging area.
